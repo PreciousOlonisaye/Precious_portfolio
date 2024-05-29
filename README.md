@@ -1,2 +1,1 @@
-# Precious_portfolio
-Data Science portfolio
+This contains powerbi projects done by Precious Olonisaye
